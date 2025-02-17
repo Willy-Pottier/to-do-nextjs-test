@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react";
 import { TrashIcon, PlusCircleIcon, CheckIcon } from '@heroicons/react/24/outline';
-import { ReactFormState } from "react-dom/client";
 
 interface Todo {
     id: number;
